@@ -1,0 +1,1 @@
+this its my proyect about a cultural centre , i am apliying the concepts that i learned in the class , the concept of the proyect its to show how i applied topics like POO 
